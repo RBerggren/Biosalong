@@ -2,6 +2,7 @@ import React, { useState } from "react";
 
 import "./App.css";
 
+console.log('Hello World'); 
 const Seat = props => (
   <button
     className="number"
