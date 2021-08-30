@@ -2,9 +2,7 @@ import React, { useState } from "react";
 
 import "./App.css";
 
-console.log('Hello World12312321312'); 
-console.log('222222222222Hello World12312321312'); 
-
+console.log('Hello'); 
 const Seat = props => (
   <button
     className="number"
